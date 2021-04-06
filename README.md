@@ -1,6 +1,8 @@
 # sarahro Core [SARAHRO, SRO]
 
+<div align="center">
 <img width="400" src="media/sarahro.png" alt="Sarahro">
+</div>
 
 # What is sarahro? – Good coin
 
