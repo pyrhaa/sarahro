@@ -5,7 +5,7 @@
 # What is sarahro? – Good coin
 
 Sarahro is a cryptocurrency like Bitcoin, although it does not use SHA256 as its
-proof of "stylax" (POS). Sarahro currently employs a simplified variant of scrypt.
+**proof of "stylax"** (POS). Sarahro currently employs a simplified variant of scrypt.
 
 # License – Muchas gracias license
 
