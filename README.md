@@ -1,3 +1,3 @@
 # sarahro Core [SARAHRO, SRO]
 
-![alt text](https://goopics.net/i/lvkOx)
+![sarahro token](https://i.goopics.net/lvkOx.png)
