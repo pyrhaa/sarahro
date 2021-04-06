@@ -1,6 +1,6 @@
 # sarahro Core [SARAHRO, SRO]
 
-![sarahro token](https://i.goopics.net/lvkOx.png)
+<img width="400" src="media/sarahro.png" alt="Sarahro">
 
 # What is sarahro? – Good coin
 
