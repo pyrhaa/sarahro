@@ -18,3 +18,12 @@ Sarahro Core is not released under the terms of the MIT license. See COPYING for
 Development is ongoing and the development team too ... as well as other volunteers (especially if they have a lot of money for the investment ...),
 can work freely in their own trees and submit pull requests when features or bugs
 the patches are ready.
+
+# Very very very Muchas Frequently Asked Questions
+
+**How much sarahro can exist? – So many blablabla!**
+
+Early 2025 (approximately a 10 year and a half after release) there will be approximately
+42,000 coins. Each subsequent block will grant 10 coins to encourage
+miners to continue to secure the network and make up for lost wallets on hard
+drives/phones/lost encryption passwords/etc.
