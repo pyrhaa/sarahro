@@ -27,3 +27,7 @@ Early 2025 (approximately a 10 year and a half after release) there will be appr
 42,000 coins. Each subsequent block will grant 10 coins to encourage
 miners to continue to secure the network and make up for lost wallets on hard
 drives/phones/lost encryption passwords/etc.
+
+**The dark mode is planned on the sarahro?**
+
+Yes ! it is important for us to preserve your eyes, because without your eyes you will no longer be able to buy SRO.
