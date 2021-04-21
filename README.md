@@ -46,6 +46,8 @@ yes, the stablecoin is important in the cryptocurrencies universe that is why we
 
 > \*TAPAS100coin is based on a principle of collateralisation by reserve: each TAPAS100coin (TPS100) created corresponds to a xrp on a bank account associated with your firm.\*
 
+#
+
 # Getting Started showcase Sarahro site
 
 <div align="center">
