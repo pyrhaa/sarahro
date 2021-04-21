@@ -48,6 +48,10 @@ yes, the stablecoin is important in the cryptocurrencies universe that is why we
 
 # Getting Started showcase Sarahro site
 
+<div align="center">
+<img width="600" src="media/sarahro_showcase.gif" alt="Sarahro">
+</div>
+
 ## Available Scripts
 
 In the project directory, you can run:
