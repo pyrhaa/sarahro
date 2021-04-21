@@ -19,6 +19,10 @@ Development is ongoing and the development team too ... as well as other volunte
 can work freely in their own trees and submit pull requests when features or bugs
 the patches are ready.
 
+# Governance
+
+##Protocol Governance
+
 # Very very very Muchas Frequently Asked Questions
 
 **- How much sarahro can exist? – So many blablabla!**
@@ -31,6 +35,16 @@ drives/phones/lost encryption passwords/etc.
 **- The dark mode is planned on the sarahro?**
 
 Yes ! it is important for us to preserve your eyes, because without them you will no longer be able to invest in the project.
+
+**- Will he have a Governance token?**
+
+yes, a governance protocol is very important to us, that's why we will create a super special token to do it, The Oignon token empowers holders with the capability to vote on proposals and collectively act as governors of the protocol.
+
+**- Will he have a stablecoin?**
+
+yes, the stablecoin is important in the cryptocurrencies universe that is why we are going to create the "TAPAS100coin" to be able to balance our token system. As you know we can no longer trust the fiat currency (Euro, Dollard, etc.) So after a lot of thought with the internal teams we will collateralize on xrp (stable coin).
+
+> \*TAPAS100coin is based on a principle of collateralisation by reserve: each TAPAS100coin (TPS100) created corresponds to a xrp on a bank account associated with your firm.\*
 
 # Getting Started showcase Sarahro site
 
