@@ -1,4 +1,4 @@
-# sarahro Core [SARAHRO, SRO]
+# Sarahro Core [SARAHRO, SRO]
 
 <div align="center">
 <img width="400" src="media/sarahro.png" alt="Sarahro">
@@ -31,3 +31,14 @@ drives/phones/lost encryption passwords/etc.
 **- The dark mode is planned on the sarahro?**
 
 Yes ! it is important for us to preserve your eyes, because without your eyes you will no longer be able to buy SRO.
+
+# Getting Started showcase Sarahro site
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `yarn start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
