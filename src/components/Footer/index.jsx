@@ -42,9 +42,9 @@ const Footer = () => {
         <SocialMedia>
           <SocialMediaWrap>
             <SocialLogo to='/' onClick={toggleHome}>
-              Sarahro - SRO
+              SarahRO - SRO
             </SocialLogo>
-            <WebsiteRights>Sarahro - SRO © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
+            <WebsiteRights>SarahRO - SRO © {new Date().getFullYear()} All rights reserved.</WebsiteRights>
             <SocialIcons>
               <SocialIconLink  arial-label='Instagram'>
                 <FaInstagram/>
