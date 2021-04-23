@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react'
 import { FaBars } from 'react-icons/fa'
 import {IconContext} from 'react-icons/lib'
-import { Nav, NavbarContainer, NavLogo, MobileIcon, NavMenu, NavLinks, NavItem} from './NavbarElements'
+import { Nav, NavbarContainer, NavLogo, MobileIcon, NavMenu} from './NavbarElements'
 import { animateScroll as scroll } from 'react-scroll';
 
 const Navbar = ({ toggle }) => {
@@ -32,16 +32,6 @@ const Navbar = ({ toggle }) => {
             <FaBars />
           </MobileIcon>
           <NavMenu>
-            <NavItem>
-              <NavLinks to='about'
-              smooth={true} duration={500} spy={true} exact='true' offset={-80}
-              >About</NavLinks>
-            </NavItem>
-            <NavItem>
-              <NavLinks to='discover'
-              smooth={true} duration={500} spy={true} exact='true' offset={-80}
-              >Discover</NavLinks>
-            </NavItem>
           </NavMenu>
         </NavbarContainer>
       </Nav>
