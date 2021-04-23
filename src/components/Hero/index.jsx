@@ -20,7 +20,7 @@ const Hero = () => {
         <HeroP>Sarahro currently employs a simplified variant of scrypt.</HeroP>
         <HeroBtnWrapper>
           <Button to='signup' onMouseEnter={onHover} onMouseLeave={onHover} primary='true' dark='true'               smooth={true} duration={500} spy={true} exact='true' offset={-80}>
-            Get Started Soon
+            Started Soon
           </Button>
         </HeroBtnWrapper>
       </HeroContent>
